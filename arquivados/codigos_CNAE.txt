@@ -1,0 +1,5 @@
+CODIGOS CNAE QUE ENVOLVEM:
+	mídia;
+	som;
+	jogos;
+	mídia de jogos.
